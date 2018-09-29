@@ -1,4 +1,4 @@
-# slytConnect
+# slyt-connect
 ## Slytter connection interface
 An idea for a node.js based interface that congregates all previously slytter connection interfaces such as:
 - Aviso Messenger (Closed source)
